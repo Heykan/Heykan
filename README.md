@@ -5,7 +5,7 @@
 ### A full-stack developer passionate about building beautiful, and functional applications.
 
 - 🌱 I’m currently learning **[NextJS]([https://blog.bytebytego.com/p/free-system-design-pdf-158-pages](https://nextjs.org/))**
-- 💬 Ask me about **C#, React, NextJS...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
+- 💬 Ask me about **C#, React, NextJS...or anything [here](https://github.com/Heykan/Heykan/issues)**
 
 <br>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Heykan/Heykan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Heykan/Heykan/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Heykan/Heykan/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
