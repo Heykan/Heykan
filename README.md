@@ -25,7 +25,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=csharp,ts,nodejs,react,nextjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=cs,ts,nodejs,react,nextjs,lua,postgres,prisma" />
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,git,postman,figma" />
 </p>
 
